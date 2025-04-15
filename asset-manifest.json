@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/DRACRM/static/css/main.ff7956f7.css",
+    "main.js": "/DRACRM/static/js/main.3592df61.js",
+    "index.html": "/DRACRM/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.ff7956f7.css",
+    "static/js/main.3592df61.js"
+  ]
+}
