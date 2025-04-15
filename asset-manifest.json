@@ -1,11 +1,13 @@
 {
   "files": {
-    "main.css": "/DRACRM/static/css/main.ff7956f7.css",
-    "main.js": "/DRACRM/static/js/main.3592df61.js",
-    "index.html": "/DRACRM/index.html"
+    "main.css": "/DRACRM/static/css/main.57adbb7c.css",
+    "main.js": "/DRACRM/static/js/main.4afd0741.js",
+    "index.html": "/DRACRM/index.html",
+    "main.57adbb7c.css.map": "/DRACRM/static/css/main.57adbb7c.css.map",
+    "main.4afd0741.js.map": "/DRACRM/static/js/main.4afd0741.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff7956f7.css",
-    "static/js/main.3592df61.js"
+    "static/css/main.57adbb7c.css",
+    "static/js/main.4afd0741.js"
   ]
 }
